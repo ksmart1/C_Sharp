@@ -1,0 +1,15 @@
+/Users/kody/projects/PhotoDemo/PhotoDemo/bin/Debug/net7.0/PhotoDemo
+/Users/kody/projects/PhotoDemo/PhotoDemo/bin/Debug/net7.0/PhotoDemo.deps.json
+/Users/kody/projects/PhotoDemo/PhotoDemo/bin/Debug/net7.0/PhotoDemo.runtimeconfig.json
+/Users/kody/projects/PhotoDemo/PhotoDemo/bin/Debug/net7.0/PhotoDemo.dll
+/Users/kody/projects/PhotoDemo/PhotoDemo/bin/Debug/net7.0/PhotoDemo.pdb
+/Users/kody/projects/PhotoDemo/PhotoDemo/obj/Debug/net7.0/PhotoDemo.csproj.AssemblyReference.cache
+/Users/kody/projects/PhotoDemo/PhotoDemo/obj/Debug/net7.0/PhotoDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kody/projects/PhotoDemo/PhotoDemo/obj/Debug/net7.0/PhotoDemo.AssemblyInfoInputs.cache
+/Users/kody/projects/PhotoDemo/PhotoDemo/obj/Debug/net7.0/PhotoDemo.AssemblyInfo.cs
+/Users/kody/projects/PhotoDemo/PhotoDemo/obj/Debug/net7.0/PhotoDemo.csproj.CoreCompileInputs.cache
+/Users/kody/projects/PhotoDemo/PhotoDemo/obj/Debug/net7.0/PhotoDemo.dll
+/Users/kody/projects/PhotoDemo/PhotoDemo/obj/Debug/net7.0/refint/PhotoDemo.dll
+/Users/kody/projects/PhotoDemo/PhotoDemo/obj/Debug/net7.0/PhotoDemo.pdb
+/Users/kody/projects/PhotoDemo/PhotoDemo/obj/Debug/net7.0/PhotoDemo.genruntimeconfig.cache
+/Users/kody/projects/PhotoDemo/PhotoDemo/obj/Debug/net7.0/ref/PhotoDemo.dll
