@@ -1,0 +1,15 @@
+/Users/kody/projects/SchoolsDemo2/SchoolsDemo2/obj/Debug/net7.0/SchoolsDemo2.csproj.AssemblyReference.cache
+/Users/kody/projects/SchoolsDemo2/SchoolsDemo2/obj/Debug/net7.0/SchoolsDemo2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kody/projects/SchoolsDemo2/SchoolsDemo2/obj/Debug/net7.0/SchoolsDemo2.AssemblyInfoInputs.cache
+/Users/kody/projects/SchoolsDemo2/SchoolsDemo2/obj/Debug/net7.0/SchoolsDemo2.AssemblyInfo.cs
+/Users/kody/projects/SchoolsDemo2/SchoolsDemo2/obj/Debug/net7.0/SchoolsDemo2.csproj.CoreCompileInputs.cache
+/Users/kody/projects/SchoolsDemo2/SchoolsDemo2/bin/Debug/net7.0/SchoolsDemo2
+/Users/kody/projects/SchoolsDemo2/SchoolsDemo2/bin/Debug/net7.0/SchoolsDemo2.deps.json
+/Users/kody/projects/SchoolsDemo2/SchoolsDemo2/bin/Debug/net7.0/SchoolsDemo2.runtimeconfig.json
+/Users/kody/projects/SchoolsDemo2/SchoolsDemo2/bin/Debug/net7.0/SchoolsDemo2.dll
+/Users/kody/projects/SchoolsDemo2/SchoolsDemo2/bin/Debug/net7.0/SchoolsDemo2.pdb
+/Users/kody/projects/SchoolsDemo2/SchoolsDemo2/obj/Debug/net7.0/SchoolsDemo2.dll
+/Users/kody/projects/SchoolsDemo2/SchoolsDemo2/obj/Debug/net7.0/refint/SchoolsDemo2.dll
+/Users/kody/projects/SchoolsDemo2/SchoolsDemo2/obj/Debug/net7.0/SchoolsDemo2.pdb
+/Users/kody/projects/SchoolsDemo2/SchoolsDemo2/obj/Debug/net7.0/SchoolsDemo2.genruntimeconfig.cache
+/Users/kody/projects/SchoolsDemo2/SchoolsDemo2/obj/Debug/net7.0/ref/SchoolsDemo2.dll

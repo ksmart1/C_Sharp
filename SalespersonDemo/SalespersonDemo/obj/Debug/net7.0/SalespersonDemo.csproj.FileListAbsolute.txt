@@ -1,0 +1,15 @@
+/Users/kody/projects/SalespersonDemo/SalespersonDemo/bin/Debug/net7.0/SalespersonDemo
+/Users/kody/projects/SalespersonDemo/SalespersonDemo/bin/Debug/net7.0/SalespersonDemo.deps.json
+/Users/kody/projects/SalespersonDemo/SalespersonDemo/bin/Debug/net7.0/SalespersonDemo.runtimeconfig.json
+/Users/kody/projects/SalespersonDemo/SalespersonDemo/bin/Debug/net7.0/SalespersonDemo.dll
+/Users/kody/projects/SalespersonDemo/SalespersonDemo/bin/Debug/net7.0/SalespersonDemo.pdb
+/Users/kody/projects/SalespersonDemo/SalespersonDemo/obj/Debug/net7.0/SalespersonDemo.csproj.AssemblyReference.cache
+/Users/kody/projects/SalespersonDemo/SalespersonDemo/obj/Debug/net7.0/SalespersonDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kody/projects/SalespersonDemo/SalespersonDemo/obj/Debug/net7.0/SalespersonDemo.AssemblyInfoInputs.cache
+/Users/kody/projects/SalespersonDemo/SalespersonDemo/obj/Debug/net7.0/SalespersonDemo.AssemblyInfo.cs
+/Users/kody/projects/SalespersonDemo/SalespersonDemo/obj/Debug/net7.0/SalespersonDemo.csproj.CoreCompileInputs.cache
+/Users/kody/projects/SalespersonDemo/SalespersonDemo/obj/Debug/net7.0/SalespersonDemo.dll
+/Users/kody/projects/SalespersonDemo/SalespersonDemo/obj/Debug/net7.0/refint/SalespersonDemo.dll
+/Users/kody/projects/SalespersonDemo/SalespersonDemo/obj/Debug/net7.0/SalespersonDemo.pdb
+/Users/kody/projects/SalespersonDemo/SalespersonDemo/obj/Debug/net7.0/SalespersonDemo.genruntimeconfig.cache
+/Users/kody/projects/SalespersonDemo/SalespersonDemo/obj/Debug/net7.0/ref/SalespersonDemo.dll
