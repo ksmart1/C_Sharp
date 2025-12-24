@@ -1,0 +1,15 @@
+/Users/kody/projects/Healthcare/Healthcare/bin/Debug/net7.0/Healthcare
+/Users/kody/projects/Healthcare/Healthcare/bin/Debug/net7.0/Healthcare.deps.json
+/Users/kody/projects/Healthcare/Healthcare/bin/Debug/net7.0/Healthcare.runtimeconfig.json
+/Users/kody/projects/Healthcare/Healthcare/bin/Debug/net7.0/Healthcare.dll
+/Users/kody/projects/Healthcare/Healthcare/bin/Debug/net7.0/Healthcare.pdb
+/Users/kody/projects/Healthcare/Healthcare/obj/Debug/net7.0/Healthcare.csproj.AssemblyReference.cache
+/Users/kody/projects/Healthcare/Healthcare/obj/Debug/net7.0/Healthcare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kody/projects/Healthcare/Healthcare/obj/Debug/net7.0/Healthcare.AssemblyInfoInputs.cache
+/Users/kody/projects/Healthcare/Healthcare/obj/Debug/net7.0/Healthcare.AssemblyInfo.cs
+/Users/kody/projects/Healthcare/Healthcare/obj/Debug/net7.0/Healthcare.csproj.CoreCompileInputs.cache
+/Users/kody/projects/Healthcare/Healthcare/obj/Debug/net7.0/Healthcare.dll
+/Users/kody/projects/Healthcare/Healthcare/obj/Debug/net7.0/refint/Healthcare.dll
+/Users/kody/projects/Healthcare/Healthcare/obj/Debug/net7.0/Healthcare.pdb
+/Users/kody/projects/Healthcare/Healthcare/obj/Debug/net7.0/Healthcare.genruntimeconfig.cache
+/Users/kody/projects/Healthcare/Healthcare/obj/Debug/net7.0/ref/Healthcare.dll

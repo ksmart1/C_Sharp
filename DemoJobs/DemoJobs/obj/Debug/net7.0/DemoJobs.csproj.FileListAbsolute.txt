@@ -1,0 +1,15 @@
+/Users/kody/projects/DemoJobs/DemoJobs/bin/Debug/net7.0/DemoJobs
+/Users/kody/projects/DemoJobs/DemoJobs/bin/Debug/net7.0/DemoJobs.deps.json
+/Users/kody/projects/DemoJobs/DemoJobs/bin/Debug/net7.0/DemoJobs.runtimeconfig.json
+/Users/kody/projects/DemoJobs/DemoJobs/bin/Debug/net7.0/DemoJobs.dll
+/Users/kody/projects/DemoJobs/DemoJobs/bin/Debug/net7.0/DemoJobs.pdb
+/Users/kody/projects/DemoJobs/DemoJobs/obj/Debug/net7.0/DemoJobs.csproj.AssemblyReference.cache
+/Users/kody/projects/DemoJobs/DemoJobs/obj/Debug/net7.0/DemoJobs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kody/projects/DemoJobs/DemoJobs/obj/Debug/net7.0/DemoJobs.AssemblyInfoInputs.cache
+/Users/kody/projects/DemoJobs/DemoJobs/obj/Debug/net7.0/DemoJobs.AssemblyInfo.cs
+/Users/kody/projects/DemoJobs/DemoJobs/obj/Debug/net7.0/DemoJobs.csproj.CoreCompileInputs.cache
+/Users/kody/projects/DemoJobs/DemoJobs/obj/Debug/net7.0/DemoJobs.dll
+/Users/kody/projects/DemoJobs/DemoJobs/obj/Debug/net7.0/refint/DemoJobs.dll
+/Users/kody/projects/DemoJobs/DemoJobs/obj/Debug/net7.0/DemoJobs.pdb
+/Users/kody/projects/DemoJobs/DemoJobs/obj/Debug/net7.0/DemoJobs.genruntimeconfig.cache
+/Users/kody/projects/DemoJobs/DemoJobs/obj/Debug/net7.0/ref/DemoJobs.dll

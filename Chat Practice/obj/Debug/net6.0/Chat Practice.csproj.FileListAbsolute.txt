@@ -1,0 +1,15 @@
+/Users/kody/projects/Chat Practice/bin/Debug/net6.0/Chat Practice
+/Users/kody/projects/Chat Practice/bin/Debug/net6.0/Chat Practice.deps.json
+/Users/kody/projects/Chat Practice/bin/Debug/net6.0/Chat Practice.runtimeconfig.json
+/Users/kody/projects/Chat Practice/bin/Debug/net6.0/Chat Practice.dll
+/Users/kody/projects/Chat Practice/bin/Debug/net6.0/Chat Practice.pdb
+/Users/kody/projects/Chat Practice/obj/Debug/net6.0/Chat Practice.csproj.AssemblyReference.cache
+/Users/kody/projects/Chat Practice/obj/Debug/net6.0/Chat Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kody/projects/Chat Practice/obj/Debug/net6.0/Chat Practice.AssemblyInfoInputs.cache
+/Users/kody/projects/Chat Practice/obj/Debug/net6.0/Chat Practice.AssemblyInfo.cs
+/Users/kody/projects/Chat Practice/obj/Debug/net6.0/Chat Practice.csproj.CoreCompileInputs.cache
+/Users/kody/projects/Chat Practice/obj/Debug/net6.0/Chat Practice.dll
+/Users/kody/projects/Chat Practice/obj/Debug/net6.0/refint/Chat Practice.dll
+/Users/kody/projects/Chat Practice/obj/Debug/net6.0/Chat Practice.pdb
+/Users/kody/projects/Chat Practice/obj/Debug/net6.0/Chat Practice.genruntimeconfig.cache
+/Users/kody/projects/Chat Practice/obj/Debug/net6.0/ref/Chat Practice.dll
